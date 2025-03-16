@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📚 BookStore
 BookStore is a web application designed to help users browse, purchase, and manage books online. It provides a seamless shopping experience with features like book categorization, search functionality, user authentication, and a shopping cart. The project is built with [Java, React My SQL].
 
@@ -13,3 +14,7 @@ Tech Stack
 🖥️ Frontend: [React/HTML/CSS/Bootstrap]
 🗄️ Backend: [Java]
 🛢️ Database: [MySQL/MongoDB]
+=======
+# BookStore
+A project using Spring Boot backend to maintain bookstore
+>>>>>>> 6b771ab (Initial commit)
